@@ -26,10 +26,15 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://your-solution-url.com)
+- Live Site URL: [Live site](https://karenhim.github.io/Frontend-Mentor-Blog-preview-card/)
 
 ## My process
+
+1. Downloaded Figma files and use its measurements.
+2. Make a grouping of components (HTML <div>) and possible classes in CSS for styling
+3. Add detailed styling like box-shadow and hover
+4. Cleaning the code and putting variables in the `:root` attribute
 
 ### Built with
 
