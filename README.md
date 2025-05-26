@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution on Frontend-Mentor](https://www.frontendmentor.io/solutions/mentor-blog-preview-card-solution-in-css-almost-pixel-perfect-QU3TSA0agd)
 - Live Site URL: [Live site](https://karenhim.github.io/Frontend-Mentor-Blog-preview-card/)
 
 ## My process
